@@ -1,4 +1,4 @@
-# javascriptMiniProjects
+# Javascript Small Projects
 
     ⏺ autoWriteText
     ⏺ backgroundChanger
